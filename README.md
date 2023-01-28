@@ -1,1 +1,1 @@
-# Hi there,my name is Roman Khilchenko ![waving hand](:wave:) 
+# Hi there,my name is Roman Khilchenko :wave:
