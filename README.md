@@ -14,6 +14,7 @@
 ## :hammer_and_wrench: My Knowledge and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="SWIFT" alt="SWIFT" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCODE" alt="XCODE" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" title="SAFARI" alt="SAFARI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LINKEDIN" alt="LINKEDIN" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="SALESFORCE" alt="SALESFORCE" width="40" height="40" />&nbsp;
 * Git/GitHub                                                          
