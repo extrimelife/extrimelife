@@ -1,4 +1,4 @@
-# Hi there,my name is Roman Khilchenko :wave:
+# Hi there,my name is Roman Khilchenko:wave:
 
 ## :link: I'm a strong entry level IOS developer from USA.
 - :computer: I have completed several courses on IOS development. The first course was held in an online school [Netology.ru](https://netology.ru). My certificate link :trophy: [Netology.ru](https://netology.ru/backend/api/user/programs/24899/pdf_certificate), as a graduation project, we wrote a small application social network, this is App there in my GitHub. After finishing the course, i had a little experience and decided to continue studying at school [Swiftbook.org](https://swiftbook.org). I have a several certificates:
@@ -12,8 +12,8 @@
 
 * :snowboarder: I love snowboarding and everything related to active life :surfer::weight_lifting_man::biking_man:
 ## :hammer_and_wrench: My Knowledge and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="60" height="60" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="40" height="40" />&nbsp;
 * Git/GitHub                                                          
 * Storyboard + xib
 * CodeLayout
@@ -28,5 +28,5 @@
 * MVC
 * MVVM
 
-## My Stats:
+## My Stats:fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=extrimelife&theme=dark&currStreakNum=DD2727)](https://git.io/streak-stats)
