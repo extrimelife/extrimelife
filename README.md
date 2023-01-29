@@ -7,6 +7,7 @@
 * :trophy:[UiKit Swift](https://swiftbook.org/courses/429/certificate/4556?language=en)
 * :trophy:[Working with data and network Swift](https://swiftbook.org/courses/430/certificate/4556?language=en)
 * :trophy:[SwiftUi](https://swiftbook.org/courses/428/certificate/4556?language=en)
+
 In general, i have 1,5 years of non-commercial programming experience in Swift. I try to constantly improve and learn something new. I have experience working in a team.
 ## My Knowledge:
 
