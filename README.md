@@ -15,7 +15,7 @@
 * Git/GitHub
 * Storyboard + xib
 * CodeLayout
-* UiKit strong then SwiftUi        ![photo](swift/swift.png)
+* UiKit strong then SwiftUi        
 * Rest API          
 * URL Session
 * Alamofire
