@@ -1,6 +1,6 @@
 # Hi there,my name is Roman Khilchenko :wave:
 
-## :link: I'm a strong entry level IOS developer from USA.
+## :link: I'm a strong entry level IOS developer.
 - :computer: I have completed several courses on IOS development. The first course was held in an online school [Netology.ru](https://netology.ru). My certificate link :trophy: [Netology.ru](https://netology.ru/backend/api/user/programs/24899/pdf_certificate), as a graduation project, we wrote a small application social network, this is App there in my GitHub. After finishing the course, i had a little experience and decided to continue studying at school [Swiftbook.org](https://swiftbook.org). I finished my training and got a several certificates:
 * :trophy:[Git and GitHub](https://swiftbook.org/courses/224/certificate/4556?language=en)
 * :trophy:[Foundation Swift](https://swiftbook.org/courses/425/certificate/4556?language=en)
