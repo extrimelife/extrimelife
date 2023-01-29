@@ -8,6 +8,18 @@
 * :trophy:[Working with data and network Swift](https://swiftbook.org/courses/430/certificate/4556?language=en)
 * :trophy:[SwiftUi](https://swiftbook.org/courses/428/certificate/4556?language=en)
 
-- In general, i have 1,5 years of non-commercial programming experience in Swift. I try to constantly improve and learn something new. I have experience working in a team.
+- In general, i have 1,5 years of non-commercial programming experience in Swift. I try to constantly improve my skills and learn something new. I have experience working in a team and i have leadership qualities. Ready to work 12 hours a day.
 ## My Knowledge:
-
+* Git/GitHub
+* Storyboard + xib
+* CodeLayout
+* UiKit strong then SwiftUi
+* Rest API
+* URL Session
+* Alamofire
+* Json
+* UserDefaults
+* CoreData
+* Realm
+* MVC
+* MVVM
