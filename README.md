@@ -12,7 +12,7 @@
 
 * :snowboarder: I love snowboarding and everything related to active life :surfer::weight_lifting_man::biking_man:
 ## :hammer_and_wrench: My Knowledge and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GIT" alt="GIT" width="60" height="60"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="60" height="60"/>&nbsp;
 * Git/GitHub                                                          
 * Storyboard + xib
 * CodeLayout
