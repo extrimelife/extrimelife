@@ -11,7 +11,8 @@
 - In general, i have 1,5 years of non-commercial programming experience in Swift. I try to constantly improve my skills and learn something new. I have experience working in a team and i have leadership qualities. Ready to work 12 hours a day.
 
 * :snowboarder: I love snowboarding and everything related to active life :surfer::weight_lifting_man::biking_man:
-## :hammer_and_wrench: My Knowledge and Tools :* Git/GitHub               <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="AWS" alt="AWS" width="100" height="100"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="AWS" alt="AWS" width="100" height="100"/>&nbsp; 
+## :hammer_and_wrench: My Knowledge and Tools :
+* Git/GitHub                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="AWS" alt="AWS" width="100" height="100"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="AWS" alt="AWS" width="100" height="100"/>&nbsp; 
 * Storyboard + xib
 * CodeLayout
 * UiKit strong then SwiftUi        
