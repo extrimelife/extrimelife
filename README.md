@@ -11,7 +11,7 @@
 - In general, i have 1,5 years of non-commercial programming experience in Swift. I try to constantly improve my skills and learn something new. I have experience working in a team and i have leadership qualities. Ready to work 12 hours a day.
 
 * :snowboarder: I love snowboarding and everything related to active life :surfer::weight_lifting_man::biking_man:
-## My Knowledge:
+## :hammer_and_wrench: My Knowledge and Tools :
 * Git/GitHub
 * Storyboard + xib
 * CodeLayout
