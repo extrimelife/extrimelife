@@ -25,3 +25,6 @@
 * Realm
 * MVC
 * MVVM
+
+## My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=extrimelife&theme=dark&currStreakNum=DD2727)](https://git.io/streak-stats)
