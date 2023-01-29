@@ -12,7 +12,7 @@
 
 * :snowboarder: I love snowboarding and everything related to active life :surfer::weight_lifting_man::biking_man:
 ## :hammer_and_wrench: My Knowledge and Tools :
-* Git/GitHub
+* Git/GitHub <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg width="40", height="40"/>
 * Storyboard + xib
 * CodeLayout
 * UiKit strong then SwiftUi        
